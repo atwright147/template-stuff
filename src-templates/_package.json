@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "lint": "biome lint src",
+    "typecheck": "tsc --noEmit",
+    "check": "npm run lint && npm run typecheck"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.8.3"
+  }
+}

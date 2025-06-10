@@ -1,0 +1,16 @@
+
+{
+  "recommendations": [
+    "biomejs.biome",
+    "mrmlnc.vscode-duplicate",
+    "jondot.vscode-hygen",
+    "pkief.material-icon-theme",
+    "yoavbls.pretty-ts-errors",
+    "mxsdev.typescript-explorer",
+    "amandeepmittal.console-snippets",
+    "editorconfig.editorconfig",
+    "codeium.codeium",
+    "vitest.explorer",
+    "deinsoftware.vitest-snippets"
+  ]
+}
